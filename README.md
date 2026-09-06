@@ -148,3 +148,12 @@ Blinkit-Data-Analysis-SQL/
 ├── README.md
 ├── Blinkit.sql
 └── dataset/
+
+👩‍💻 Author
+
+Bansi Hadiyal
+
+MIS & Reporting Analyst | Data Analytics | SQL | Excel | Tableau
+
+GitHub: https://github.com/Bansi1610
+LinkedIn: https://www.linkedin.com/in/bansi-hadiyal
